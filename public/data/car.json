@@ -1,0 +1,30 @@
+[
+  {
+    "IdProduk": 1,
+    "KodeProduk": "MOB001",
+    "NamaProduk": "Toyota Avanza Veloz 1.5 G",
+    "Tahun": 2023,
+    "Varian": "G",
+    "Transmisi": "Manual",
+    "Warna": "Putih",
+    "HargaModal": "180000000",
+    "HargaJual": "200000000",
+    "HargaDiskon": "190000000",
+    "Stok": 2,
+    "Spesifikasi": "Mesin 1.5L, 7 penumpang, AC double blower, sensor parkir"
+},
+{
+  "IdProduk": 2,
+  "KodeProduk": "MOB002",
+  "NamaProduk": "Honda Brio RS",
+  "Tahun": 2022,
+  "Varian": "RS",
+  "Transmisi": "Otomatis",
+  "Warna": "Hitam",
+  "HargaModal": "150000000",
+  "HargaJual": "170000000",
+  "HargaDiskon": "160000000",
+  "Stok": 5,
+  "Spesifikasi": "Mesin 1.2L, fitur keselamatan lengkap, desain sporty"
+}
+]
